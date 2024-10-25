@@ -28,10 +28,6 @@ a{
     display: block;
     clear: both;
 }
-
-header{
-
-}
 header h1{
     float: left;
     padding:15px 0 ;
@@ -46,7 +42,6 @@ header ul li{
     display: inline-block;
     margin: 0;
     padding: 0;
-    color:#2C2C2C ;
 }
 header ul li a{
     padding: 24px 20px;
@@ -62,7 +57,7 @@ header ul li a:hover{
 .bener{
     height: 60vh ;
     
-    background-image: url('../img/gmbr1.jpg');
+    background-image: url('img/gmbr1.jpg');
     background-size: cover;
     background-position: center top; /* Atur gambar agar lebih ke atas */
     position: relative;
